@@ -11,7 +11,7 @@ class IATACodesClient:
     def __init__(self, api_key):
         self.__api_key = api_key
 
-    def get(self, code=None, name=None, country_code=None) -> []:
+    def get(self, code=None, name=None, country_code=None):
         f = furl('https://iatacodes.org/api/v6/cities?api_key={api_key}'.format(api_key=self.__api_key))
         if name:
             code = self.__query_by_name(name)
