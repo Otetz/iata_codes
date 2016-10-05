@@ -1,6 +1,8 @@
 iata_codes
 ==========
 
+[![Build Status](https://travis-ci.org/Otetz/iata_codes.svg?branch=master)](https://travis-ci.org/Otetz/iata_codes)
+
 Python client for IATA Codes Database REST API
 
 ## Features
