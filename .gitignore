@@ -90,3 +90,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
+exclude.lst
+upload.sh
