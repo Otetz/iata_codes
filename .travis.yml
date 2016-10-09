@@ -1,4 +1,7 @@
 language: python
+cache:
+  pip: true
+  timeout: 900
 python:
   - "2.6"
   - "2.7"
