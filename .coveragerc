@@ -1,8 +1,7 @@
-[run]
-include = */iata_codes/*
-omit = */iata_codes/version.py
-
 [report]
+omit =
+    iata_codes/version.py
+    tests/*
 exclude_lines =
     pragma: no cover
     if 0:
