@@ -1,4 +1,6 @@
 [report]
+include =
+    iata_codes/*
 omit =
     iata_codes/version.py
     tests/*
