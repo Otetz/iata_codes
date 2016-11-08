@@ -1,0 +1,894 @@
+{
+  "response": [
+    {
+      "country_code": "RU",
+      "name": "Anapa",
+      "code": "AAQ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Abakan",
+      "code": "ABA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Achinsk",
+      "code": "ACS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Aldan",
+      "code": "ADH"
+    },
+    {
+      "country_code": "RU",
+      "name": "Sochi",
+      "code": "AER"
+    },
+    {
+      "country_code": "RU",
+      "name": "Amderma",
+      "code": "AMV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Arkhangelsk",
+      "code": "ARH"
+    },
+    {
+      "country_code": "RU",
+      "name": "Astrakhan",
+      "code": "ASF"
+    },
+    {
+      "country_code": "RU",
+      "name": "Barnaul",
+      "code": "BAX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Beloreck",
+      "code": "BCX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Bogorodskoye",
+      "code": "BQG"
+    },
+    {
+      "country_code": "RU",
+      "name": "Batagay",
+      "code": "BQJ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Blagoveschensk",
+      "code": "BQS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Bratsk",
+      "code": "BTK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Iturup Island",
+      "code": "BVV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Balakovo",
+      "code": "BWO"
+    },
+    {
+      "country_code": "RU",
+      "name": "Briansk",
+      "code": "BZK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Cherepovets",
+      "code": "CEE"
+    },
+    {
+      "country_code": "RU",
+      "name": "Chelyabinsk",
+      "code": "CEK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Chokurdah",
+      "code": "CKH"
+    },
+    {
+      "country_code": "RU",
+      "name": "Chkalovsky",
+      "code": "CKL"
+    },
+    {
+      "country_code": "RU",
+      "name": "Solovetsky",
+      "code": "CSH"
+    },
+    {
+      "country_code": "RU",
+      "name": "Cheboksary",
+      "code": "CSY"
+    },
+    {
+      "country_code": "RU",
+      "name": "Cherskiy",
+      "code": "CYX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Yuzhno-Kurilsk",
+      "code": "DEE"
+    },
+    {
+      "country_code": "RU",
+      "name": "Dikson",
+      "code": "DKS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Anadyr",
+      "code": "DYR"
+    },
+    {
+      "country_code": "RU",
+      "name": "Belgorod",
+      "code": "EGO"
+    },
+    {
+      "country_code": "RU",
+      "name": "Eniseysk",
+      "code": "EIE"
+    },
+    {
+      "country_code": "RU",
+      "name": "Yeysk",
+      "code": "EIK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Shakhtersk",
+      "code": "EKS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Yerbogachen",
+      "code": "ERG"
+    },
+    {
+      "country_code": "RU",
+      "name": "Elista",
+      "code": "ESL"
+    },
+    {
+      "country_code": "RU",
+      "name": "Beloyarsky",
+      "code": "EYK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Berezovo",
+      "code": "EZV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Magdagachi",
+      "code": "GDG"
+    },
+    {
+      "country_code": "RU",
+      "name": "Magadan",
+      "code": "GDX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Gelendzik",
+      "code": "GDZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nizhniy Novgorod",
+      "code": "GOJ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Groznyj",
+      "code": "GRV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Sovetskaya Gavan",
+      "code": "GVN"
+    },
+    {
+      "country_code": "RU",
+      "name": "Khanty-Mansiysk",
+      "code": "HMA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Chita",
+      "code": "HTA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Hatanga",
+      "code": "HTG"
+    },
+    {
+      "country_code": "RU",
+      "name": "Igarka",
+      "code": "IAA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Yaroslavl",
+      "code": "IAR"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nazran",
+      "code": "IGT"
+    },
+    {
+      "country_code": "RU",
+      "name": "Izhevsk",
+      "code": "IJK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tiksi",
+      "code": "IKS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Irkutsk",
+      "code": "IKT"
+    },
+    {
+      "country_code": "RU",
+      "name": "Inta",
+      "code": "INA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Igrim",
+      "code": "IRM"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ivanova",
+      "code": "IWA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Yoshkar-Ola",
+      "code": "JOK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kirensk",
+      "code": "KCK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kemerovo",
+      "code": "KEJ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kaliningrad",
+      "code": "KGD"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kogalym",
+      "code": "KGP"
+    },
+    {
+      "country_code": "RU",
+      "name": "Khabarovsk",
+      "code": "KHV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Krasnojarsk",
+      "code": "KJA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Krasnoselkup",
+      "code": "KKQ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tver",
+      "code": "KLD"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kaluga",
+      "code": "KLF"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kostroma",
+      "code": "KMW"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kurgan",
+      "code": "KRO"
+    },
+    {
+      "country_code": "RU",
+      "name": "Krasnodar",
+      "code": "KRR"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kotlas",
+      "code": "KSZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Samara",
+      "code": "KUF"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kirovsk",
+      "code": "KVK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kavalerovo",
+      "code": "KVR"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kirov",
+      "code": "KVX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Komsomolsk Na Amure",
+      "code": "KXK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kyzyl",
+      "code": "KYZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kazan",
+      "code": "KZN"
+    },
+    {
+      "country_code": "RU",
+      "name": "Leshukonskoye",
+      "code": "LDG"
+    },
+    {
+      "country_code": "RU",
+      "name": "Saint Petersburg",
+      "code": "LED"
+    },
+    {
+      "country_code": "RU",
+      "name": "Smolensk",
+      "code": "LNX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Lipetsk",
+      "code": "LPK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Makhachkala",
+      "code": "MCX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Mirnyj",
+      "code": "MJZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Murmansk",
+      "code": "MMK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Moscow",
+      "code": "MOW"
+    },
+    {
+      "country_code": "RU",
+      "name": "Magnitogorsk",
+      "code": "MQF"
+    },
+    {
+      "country_code": "RU",
+      "name": "Mineralnye Vody",
+      "code": "MRV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nalchik",
+      "code": "NAL"
+    },
+    {
+      "country_code": "RU",
+      "name": "Naberevnye Chelny",
+      "code": "NBC"
+    },
+    {
+      "country_code": "RU",
+      "name": "Neftekamsk",
+      "code": "NEF"
+    },
+    {
+      "country_code": "RU",
+      "name": "Neryungri",
+      "code": "NER"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nefteyugansk",
+      "code": "NFG"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nogliki",
+      "code": "NGK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nizhnevartovsk",
+      "code": "NJC"
+    },
+    {
+      "country_code": "RU",
+      "name": "Naryan-Mar",
+      "code": "NNM"
+    },
+    {
+      "country_code": "RU",
+      "name": "Novorossijsk",
+      "code": "NOI"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nojabrxsk",
+      "code": "NOJ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Novokuznetsk",
+      "code": "NOZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Norilsk",
+      "code": "NSK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Novy Urengoy",
+      "code": "NUX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Novgorod",
+      "code": "NVR"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nyagan",
+      "code": "NYA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Nadym",
+      "code": "NYM"
+    },
+    {
+      "country_code": "RU",
+      "name": "Bodaybo",
+      "code": "ODO"
+    },
+    {
+      "country_code": "RU",
+      "name": "Orel",
+      "code": "OEL"
+    },
+    {
+      "country_code": "RU",
+      "name": "Vladikavkaz",
+      "code": "OGZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Okha",
+      "code": "OHH"
+    },
+    {
+      "country_code": "RU",
+      "name": "Okhotsk",
+      "code": "OHO"
+    },
+    {
+      "country_code": "RU",
+      "name": "Oktiabrskij",
+      "code": "OKT"
+    },
+    {
+      "country_code": "RU",
+      "name": "Omsk",
+      "code": "OMS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Orsk",
+      "code": "OSW"
+    },
+    {
+      "country_code": "RU",
+      "name": "Novosibirsk",
+      "code": "OVB"
+    },
+    {
+      "country_code": "RU",
+      "name": "Sovetsky",
+      "code": "OVS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Perm",
+      "code": "PEE"
+    },
+    {
+      "country_code": "RU",
+      "name": "Petrozavodsk",
+      "code": "PES"
+    },
+    {
+      "country_code": "RU",
+      "name": "Pechora",
+      "code": "PEX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Penza",
+      "code": "PEZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Petropavlovsk-Kamchats",
+      "code": "PKC"
+    },
+    {
+      "country_code": "RU",
+      "name": "Pskov",
+      "code": "PKV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Provideniya",
+      "code": "PVS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Pevek",
+      "code": "PWE"
+    },
+    {
+      "country_code": "RU",
+      "name": "Polyarnyj",
+      "code": "PYJ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Raduzhnyi",
+      "code": "RAT"
+    },
+    {
+      "country_code": "RU",
+      "name": "Orenburg",
+      "code": "REN"
+    },
+    {
+      "country_code": "RU",
+      "name": "Gorno-Altaysk",
+      "code": "RGK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Rostov",
+      "code": "ROV"
+    },
+    {
+      "country_code": "RU",
+      "name": "Saratov",
+      "code": "RTW"
+    },
+    {
+      "country_code": "RU",
+      "name": "Rybinsk",
+      "code": "RYB"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ryazan",
+      "code": "RZN"
+    },
+    {
+      "country_code": "RU",
+      "name": "Syktyvkar",
+      "code": "SCW"
+    },
+    {
+      "country_code": "RU",
+      "name": "Surgut",
+      "code": "SGC"
+    },
+    {
+      "country_code": "RU",
+      "name": "Saransk",
+      "code": "SKX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Salekhard",
+      "code": "SLY"
+    },
+    {
+      "country_code": "RU",
+      "name": "Stavropol",
+      "code": "STW"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ekaterinburg",
+      "code": "SVX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Strzhewoi",
+      "code": "SWT"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tambov",
+      "code": "TBW"
+    },
+    {
+      "country_code": "RU",
+      "name": "Taganrog",
+      "code": "TGK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Bor",
+      "code": "TGP"
+    },
+    {
+      "country_code": "RU",
+      "name": "Turukhansk",
+      "code": "THX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tyumen",
+      "code": "TJM"
+    },
+    {
+      "country_code": "RU",
+      "name": "Plastun",
+      "code": "TLY"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tomsk",
+      "code": "TOF"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tobolsk",
+      "code": "TOX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tarko-Sale",
+      "code": "TQL"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tula",
+      "code": "TYA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Tynda",
+      "code": "TYD"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ukhta",
+      "code": "UCT"
+    },
+    {
+      "country_code": "RU",
+      "name": "Urengoy",
+      "code": "UEN"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ufa",
+      "code": "UFA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ust-Ilimsk",
+      "code": "UIK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ust-Kut",
+      "code": "UKX"
+    },
+    {
+      "country_code": "RU",
+      "name": "Lensk",
+      "code": "ULK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ulyanovsk",
+      "code": "ULY"
+    },
+    {
+      "country_code": "RU",
+      "name": "Uraj",
+      "code": "URJ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Kursk",
+      "code": "URS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Usinsk",
+      "code": "USK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ust-Tsilma",
+      "code": "UTS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Bugulma",
+      "code": "UUA"
+    },
+    {
+      "country_code": "RU",
+      "name": "Ulan-ude",
+      "code": "UUD"
+    },
+    {
+      "country_code": "RU",
+      "name": "Yuzhno-Sakhalinsk",
+      "code": "UUS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Vologda",
+      "code": "VGD"
+    },
+    {
+      "country_code": "RU",
+      "name": "Vorkuta",
+      "code": "VKT"
+    },
+    {
+      "country_code": "RU",
+      "name": "Volgodonsk",
+      "code": "VLK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Velikiye Luki",
+      "code": "VLU"
+    },
+    {
+      "country_code": "RU",
+      "name": "Volgograd",
+      "code": "VOG"
+    },
+    {
+      "country_code": "RU",
+      "name": "Voronezh",
+      "code": "VOZ"
+    },
+    {
+      "country_code": "RU",
+      "name": "Varandey",
+      "code": "VRI"
+    },
+    {
+      "country_code": "RU",
+      "name": "Velikij Ustyug",
+      "code": "VUS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Vladivostok",
+      "code": "VVO"
+    },
+    {
+      "country_code": "RU",
+      "name": "Yakutsk",
+      "code": "YKS"
+    },
+    {
+      "country_code": "RU",
+      "name": "Mys-Kamenny",
+      "code": "YMK"
+    },
+    {
+      "country_code": "RU",
+      "name": "Zonalnoye",
+      "code": "ZZO"
+    }
+  ],
+  "request": {
+    "currency": "USD",
+    "id": 14786218286,
+    "server": "c",
+    "client": {
+      "agent": {
+        "browser": "unknown",
+        "platform": "unknown",
+        "os": "unknown"
+      },
+      "country_code": "CY",
+      "ip": "213.149.183.59",
+      "country": "Cyprus",
+      "lat": 35,
+      "lng": 33,
+      "device": {
+        "type": "phone"
+      }
+    },
+    "method": "cities",
+    "version": 6,
+    "params": {
+      "country_code": "RU",
+      "lang": "en"
+    },
+    "key": {
+      "id": 6201,
+      "type": "free",
+      "usage_by_minute": 5,
+      "expired": null,
+      "api_key": "52116d5f-dcb6-4f65-9f31-d8170ff9811d",
+      "limits_by_minute": 250,
+      "usage_by_hour": 11,
+      "limits_by_hour": 2500,
+      "registered": "2016-10-05T13:34:16.000Z"
+    },
+    "time": 2,
+    "lang": "en",
+    "pid": 11339
+  }
+}
