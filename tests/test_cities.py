@@ -13,7 +13,7 @@ def client():
 
 
 def json_from_file(filename):
-    with open('tests/data/' + filename, encoding='utf-8') as json_file:
+    with open('tests/data/' + filename) as json_file:
         return json.load(json_file)
 
 
