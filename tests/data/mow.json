@@ -1,0 +1,49 @@
+{
+  "response": [
+    {
+      "country_code": "RU",
+      "name": "Moscow",
+      "code": "MOW"
+    }
+  ],
+  "request": {
+    "currency": "USD",
+    "id": 14786218241,
+    "server": "c",
+    "client": {
+      "agent": {
+        "browser": "unknown",
+        "platform": "unknown",
+        "os": "unknown"
+      },
+      "country_code": "CY",
+      "ip": "213.149.183.59",
+      "country": "Cyprus",
+      "lat": 35,
+      "lng": 33,
+      "device": {
+        "type": "phone"
+      }
+    },
+    "method": "cities",
+    "version": 6,
+    "params": {
+      "lang": "en",
+      "code": "MOW"
+    },
+    "key": {
+      "id": 6201,
+      "type": "free",
+      "usage_by_minute": 1,
+      "expired": null,
+      "api_key": "52116d5f-dcb6-4f65-9f31-d8170ff9811d",
+      "limits_by_minute": 250,
+      "usage_by_hour": 7,
+      "limits_by_hour": 2500,
+      "registered": "2016-10-05T13:34:16.000Z"
+    },
+    "time": 12,
+    "lang": "en",
+    "pid": 11351
+  }
+}

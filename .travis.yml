@@ -18,7 +18,7 @@ python:
 install:
   - "pip install -r requirements.txt"
   - "pip install ."
-  - "pip install coverage codecov pytest-cov"
+  - "pip install coverage codecov pytest-cov python-coveralls"
 env:
   secure: "tCAHZD/wT252StYr2yFy7Pg4P8yd0z1Gmx9MpbFclY3AKzubrYnegtyISmCT9nvYf9sHlM5yBzZT2V2o1e2+9bPu3vszE5St5bqIfzQhGKLtWZ+YX7V59iFwT0gn0RCcYgqxzD2RmsjfYM32JiSPb2bykCds6fUTCu7UpTUqgLRo5+a0KTKev/ezxoFBnzwmL4Ai3VxUpHGGZetobx6MLfEMbYrFkn4ydFITPTRHwlmiUsmSDLlgkU9F4rG9/rHQhXTkeS0WLdH+8LD0mX3Bt9UWDcEpUxFJODtOZZqmmUcGnqIib31KDLpa5EbN8T7Kopb8WkwMuensqPEPwWNp7o7sNKbO+7ywnppekBrS12ELx76+el7q0bec/IfrIS/ip+YrF3I/pvzXs7Or9ZloA9Xji8pIfw9b/GGFdeGG53ycrZ6Oq2MeaSX1WEKXPLy1PyyLY8RMxn66g+LZj81b/PzMOXezT7VOD4+kzy9eHSUC3bj2W3x6JctaE+GepquHG3wzyWyuBuKfHAOQvddbK57q79t94C+0iPfnAMJ1vnovf+ZEzSV+T5OpNFiHTi1AL3szU2/2LCw4l8bewRKVp36MSIzH0TABz5M8z+F6knYxoV6sdKEPoZz4vxdasamRUB7bndpa8wcBGuL0IIrJVDSxaOJcpuD3EFeauBElssg="
 # command to run tests
@@ -26,3 +26,4 @@ script: py.test --cov
 after_success:
 #  - bash <(curl -s https://codecov.io/bash)
   - codecov
+  - coveralls

@@ -3,7 +3,7 @@ import logging
 import requests
 from furl import furl
 
-logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.DEBUG)
+logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 log = logging.getLogger(__name__)
 
 
@@ -21,8 +21,12 @@ class IATACodesClient:
             f.args['country_code'] = country_code
         log.info(f.url)
         r = requests.get(f.url)
-        log.info('\t' + str(r.status_code))
+        log.debug('\t' + str(r.status_code))
+        if r.status_code != 200:
+            raise WrongIATAResultException('r.status_code = %d' % r.status_code)
         res = r.json()
+        log.debug(r.headers['content-type'])
+        log.debug(res)
         if 'response' not in res:
             raise WrongIATAResultException('r.json() = %s' % res)
         return res['response']
@@ -38,16 +42,18 @@ class IATACodesClient:
             .format(api_key=self.__api_key, query=name)
         log.info(url)
         r = requests.get(url)
-        log.info('\t' + str(r.status_code))
+        log.debug('\t' + str(r.status_code))
         if r.status_code != 200:
             raise WrongIATAResultException('r.status_code = %d' % r.status_code)
         res = r.json()
+        log.debug(r.headers['content-type'])
+        log.debug(res)
         if 'response' not in res:
             raise WrongIATAResultException('r.json() = %s' % res)
         result = []
         for rec in res['response']['cities']:
             result.append(rec['code'])
-        log.info('\t' + ','.join(result))
+        log.debug('\t' + ','.join(result))
         return ','.join(result)
 
 

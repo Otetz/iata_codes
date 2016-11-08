@@ -1,0 +1,89 @@
+{
+  "response": {
+    "airports_by_cities": [
+      {
+        "name": "Domodedovo",
+        "country_name": "Russia",
+        "code": "DME"
+      },
+      {
+        "name": "Sheremetyevo International",
+        "country_name": "Russia",
+        "code": "SVO"
+      },
+      {
+        "name": "Belorussky Railway Station",
+        "country_name": "Russia",
+        "code": "JQO"
+      },
+      {
+        "name": "Vnukovo",
+        "country_name": "Russia",
+        "code": "VKO"
+      },
+      {
+        "name": "Savelovsky Railway Station",
+        "country_name": "Russia",
+        "code": "JQF"
+      }
+    ],
+    "airports": [
+      {
+        "name": "Pullman-Moscow Regional Airport",
+        "country_name": "United States",
+        "code": "PUW"
+      }
+    ],
+    "cities_by_countries": [],
+    "countries": [],
+    "cities_by_airports": [],
+    "cities": [
+      {
+        "name": "Moscow",
+        "country_name": "Russia",
+        "code": "MOW"
+      }
+    ],
+    "airports_by_countries": []
+  },
+  "request": {
+    "currency": "USD",
+    "id": 14786218256,
+    "server": "c",
+    "client": {
+      "agent": {
+        "browser": "unknown",
+        "platform": "unknown",
+        "os": "unknown"
+      },
+      "country_code": "CY",
+      "ip": "213.149.183.59",
+      "country": "Cyprus",
+      "lat": 35,
+      "lng": 33,
+      "device": {
+        "type": "phone"
+      }
+    },
+    "method": "autocomplete",
+    "version": 6,
+    "params": {
+      "query": "Moscow",
+      "lang": "en"
+    },
+    "key": {
+      "id": 6201,
+      "type": "free",
+      "usage_by_minute": 2,
+      "expired": null,
+      "api_key": "52116d5f-dcb6-4f65-9f31-d8170ff9811d",
+      "limits_by_minute": 250,
+      "usage_by_hour": 8,
+      "limits_by_hour": 2500,
+      "registered": "2016-10-05T13:34:16.000Z"
+    },
+    "time": 4,
+    "lang": "en",
+    "pid": 11339
+  }
+}
