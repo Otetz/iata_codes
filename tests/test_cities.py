@@ -4,7 +4,7 @@ import os
 import requests_mock
 import pytest
 
-from iata_codes.cities import IATACodesClient
+from iata_codes import IATACodesClient
 
 
 @pytest.fixture
@@ -17,6 +17,7 @@ def json_from_file(filename):
         return json.load(json_file)
 
 
+# noinspection PyShadowingNames
 def test_city_code(client):
     city_code = 'MOW'
     with requests_mock.Mocker() as m:
@@ -32,6 +33,7 @@ def test_city_code(client):
     assert res[0]['name'] == 'Moscow'
 
 
+# noinspection PyShadowingNames
 def test_city_name(client):
     city_name = 'Moscow'
     with requests_mock.Mocker() as m:
@@ -53,6 +55,7 @@ def test_city_name(client):
     assert res[0]['name'] == city_name
 
 
+# noinspection PyShadowingNames
 def test_one(client):
     city_code = 'MOW'
     with requests_mock.Mocker() as m:
@@ -68,6 +71,7 @@ def test_one(client):
     assert res['name'] == 'Moscow'
 
 
+# noinspection PyShadowingNames
 def test_country_code(client):
     country_code = 'RU'
     with requests_mock.Mocker() as m:
@@ -82,6 +86,7 @@ def test_country_code(client):
     assert res[-1]['country_code'] == country_code
 
 
+# noinspection PyShadowingNames
 def test_all_cities(client):
     with requests_mock.Mocker() as m:
         m.get("https://iatacodes.org/api/v6/cities?api_key={api_key}".format(
