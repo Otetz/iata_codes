@@ -36,7 +36,7 @@ Getting started
 
 Make sure to include this line in the beginning of your file::
 
-  from iata_codes.cities import IATACodesClient
+  from iata_codes import IATACodesClient
 
 Set your API Key::
 
