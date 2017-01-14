@@ -1,0 +1,44 @@
+{
+  "request": {
+    "lang": "en",
+    "currency": "USD",
+    "time": 1,
+    "id": 1484356302039,
+    "server": "c",
+    "pid": 13542,
+    "key": {
+      "id": 6201,
+      "api_key": "52116d5f-dcb6-4f65-9f31-d8170ff9811d",
+      "type": "free",
+      "expired": null,
+      "registered": "2016-10-05T13:34:16.000Z",
+      "limits_by_hour": 2500,
+      "limits_by_minute": 250,
+      "demo_methods": [],
+      "usage_by_hour": 14,
+      "usage_by_minute": 3
+    },
+    "params": {
+      "code": "MOK",
+      "lang": "en"
+    },
+    "version": 6,
+    "method": "cities",
+    "client": {
+      "country_code": "CY",
+      "country": "Cyprus",
+      "lat": 35,
+      "lng": 33,
+      "ip": "213.149.183.59",
+      "device": {
+        "type": "phone"
+      },
+      "agent": {
+        "browser": "unknown",
+        "os": "unknown",
+        "platform": "unknown"
+      }
+    }
+  },
+  "response": []
+}
