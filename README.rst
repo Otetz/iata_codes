@@ -13,6 +13,10 @@ iata_codes
 .. image:: https://coveralls.io/repos/github/Otetz/iata_codes/badge.svg?branch=master
    :alt: Coverage Status
    :target: https://coveralls.io/github/Otetz/iata_codes?branch=master
+   
+.. image:: https://landscape.io/github/Otetz/iata_codes/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/Otetz/iata_codes/master
+   :alt: Code Health
 
 Python client for IATA Codes Database REST API
 
