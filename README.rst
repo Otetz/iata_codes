@@ -20,6 +20,11 @@ iata_codes
 
 Python client for IATA Codes Database REST API
 
+!!! Project closed !!!
+----------------------
+
+IATA closed old API and now sell database at its own website: https://www.iata.org/en/services/codes/.
+
 Features
 --------
 
