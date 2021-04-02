@@ -1,2 +1,2 @@
-requests
-furl
+requests==2.18.1
+furl==1.0.0
